@@ -17,4 +17,4 @@ pygbag參考影片：
 https://www.youtube.com/watch?v=6PhDmpBcezQ&t=200s
 https://www.youtube.com/watch?v=q25i2CCNvis&t=296s
 
-p.s 圖片跟各個東西的路徑你要自己修改
+p.s 圖片跟各個東西的路徑你要自己修改，然後如果解決的話，幫我把遊戲丟到itch.io上就好。至於itch.io是什麼，參考影片應該有寫
